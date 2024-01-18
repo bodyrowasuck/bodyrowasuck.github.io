@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodyrowasuck.github.io/sitemap.xml
